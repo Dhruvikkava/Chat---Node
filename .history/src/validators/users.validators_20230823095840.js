@@ -1,0 +1,4 @@
+
+const userValidate = (validteType, res) => {
+
+}
